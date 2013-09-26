@@ -1,4 +1,4 @@
-In tradition Hashing the keys go to the respective machine based on the hashing 
+In traditional Hashing the keys go to the respective machine based on the hashing 
 function (Say hash(key) mod n).If the  hash function is reasonably good the 
 keys will be distributed uniformly very well.But the problem starts when there
 is a need to add a new machine to the cluster.The hashing function changes to Say
@@ -23,5 +23,4 @@ function and the value was added to the hash table again.Now subsequent key-valu
 pairs went to the machine based on the new hash table.
 
 
-Kumar Rishabh
-201102103
+
