@@ -10,7 +10,7 @@ To Execute consistent_hashing :
 
 To Execute Merkle_Tree :
     
-    ./merkle-tree/merkleTree.py 
+    ./merkle_tree/merkleTree.py 
 
     Remote Host name takes the form Remote_Hostname:Remote_Directory_On_The_Remote_Host
 
